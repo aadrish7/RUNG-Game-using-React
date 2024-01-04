@@ -37,7 +37,7 @@ export default function SelectRung({ socket }: HomePageProps) {
         className="button-select-rang"
         onClick={() => handleSelectRung("Clubs")}
       >
-        Clubs
+        Club
       </button>
     </div>
   );
