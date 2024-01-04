@@ -18,7 +18,7 @@ export default function LandingPage({ socket }: HomePageProps, props: any) {
       <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Rang</title>
+        <title>RUNG Game</title>
         <link rel="stylesheet" href="rang.css" />
         <link rel="stylesheet" href="playing-cards.css" />
       </head>
